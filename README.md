@@ -1,16 +1,15 @@
-## Hi there 👋
-
-<!--
-**MaslovskayaMarina/MaslovskayaMarina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr>
+    <td width="50%" valign="top" style="border: none; padding: 10px;">
+      <h1 align="left">Hello! My name is Marina Maslovskaya.</h1>
+      
+  <p align="left">
+    <strong>I'm a QA Engineer.</strong><br>
+    🐞 I'm actively growing in <strong>manual and automated testing</strong>.<br>
+      </p>
+    </td>
+    <td width="50%" align="center" valign="middle" style="border: none; padding: 10px;">
+      <img src="https://media.tenor.com/cnC-YVSXNeAAAAAj/frugitofficial-frugit.gif" width="280" alt="Pixel art black cat">
+    </td>
+  </tr>
+</table>
